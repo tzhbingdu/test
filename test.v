@@ -5,5 +5,6 @@ output b
 );
 
 assign b=a;
+assign c=a;
 
 endmodule
